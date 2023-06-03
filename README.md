@@ -2,7 +2,8 @@
 
 ## Introduction
 This documentation provides an overview of a simple website that allows users to input a number in minutes and starts a countdown timer. The website is built using HTML, CSS, and JavaScript. The countdown timer starts from the user-inputted number of minutes and counts down to zero.
-
+<img width="1414" alt="Screenshot 2023-06-03 at 10 46 14 PM" src="https://github.com/roktim32/countdown-timer/assets/57640212/89d5ff4b-a9d6-4890-8a82-2c33f9553443">
+https://countdown-timer-amber.vercel.app
 ## Features
 The Countdown Timer website has the following features:
 
